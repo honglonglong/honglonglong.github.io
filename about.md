@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+我是一名程序员，平时想远离计算机世界，投身到现实生活中去。
 
-### More Information
+### 联系我
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[lvjun.summer@live.com](mailto:lvjun.summer@live.com)
